@@ -148,6 +148,17 @@ nav{
     text-align: center;
 }
 
+.mercha{
+	cursor: default;
+    text-decoration: none;
+    display: block;
+    width: 50%;
+}
+
+.merchimg{
+	width: 100%;
+}
+
 .link:link{
     color: #00f;
     text-decoration: none;
